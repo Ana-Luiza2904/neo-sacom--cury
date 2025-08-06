@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Neo Sacomã - Cury</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100 text-gray-800">
+  <div class="max-w-2xl mx-auto p-6 bg-white rounded-2xl shadow-xl mt-10">
+    <h1 class="text-3xl font-bold mb-4 text-center text-blue-800">Seu Apê com 2 Dormitórios na Zona Sul!</h1>
+    <p class="text-lg mb-6 text-center">A 10 minutos do Metrô Sacomã | Entrada parcelada | Use seu FGTS</p>
+
+    <ul class="mb-6 space-y-2 text-sm">
+      <li>✅ 2 Dorms com Terraço</li>
+      <li>✅ Documentação Grátis</li>
+      <li>✅ Até R$ 55 mil de subsídio</li>
+      <li>✅ Sem análise de score</li>
+      <li>✅ Entrega em 2028</li>
+    </ul>
+
+    <div class="text-center mb-6">
+      <a href="https://wa.me/5511940627110?text=Oi%2C+tenho+interesse+no+Neo+Sacom%C3%A3+da+Cury.+Quero+receber+uma+simula%C3%A7%C3%A3o+personalizada%21" 
+         class="inline-block bg-green-600 text-white text-lg font-semibold px-6 py-3 rounded-xl shadow hover:bg-green-700 transition">
+        👉 Quero Minha Simulação
+      </a>
+    </div>
+
+    <p class="text-center text-sm text-gray-500">Construtora Cury - Especialista em Minha Casa Minha Vida</p>
+  </div>
+</body>
+</html>
